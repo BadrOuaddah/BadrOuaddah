@@ -109,12 +109,10 @@ If you're interested in collaborating on a project or just want to chat, feel fr
 
 ## Github Stats  
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=BadrOuaddah)](https://github.com/BadrOuaddah/github-readme-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BadrOuaddah&layout=compact)](https://github.com/BadrOuaddah/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BadrOuaddah&show_icons=true&locale=en&layout=compact" alt="BadrOuaddah" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BadrOuaddah&show_icons=true&locale=en" alt="BadrOuaddah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BadrOuaddah&" alt="BadrOuaddah" /></p>
-
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/BadrOuaddah/github-readme-stats)
 
 <br/>
