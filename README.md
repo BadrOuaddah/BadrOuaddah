@@ -63,7 +63,7 @@ If you're interested in collaborating on a project or just want to chat, feel fr
 - 👯 I’m looking to collaborate on open source project and automations.  
   
 
-- 📫 How to reach me badr.ouaddah.07@gmail.com  
+- 📫 How to reach me badr.ouaddah.07@gmail.com.
 
 
 </td><td valign="top" width="50%">
