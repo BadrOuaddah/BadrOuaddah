@@ -32,7 +32,7 @@ If you're interested in collaborating on a project or just want to chat, feel fr
 
 
 ### Contact me :  
-📞 +212642-193461
+📞 (+212)642-193461
 
 ✉️ badr.ouaddah.07@gmail.com  
   
@@ -60,7 +60,7 @@ If you're interested in collaborating on a project or just want to chat, feel fr
 - ⚡ Fun fact: First solve the problem, then write the code.  
   
 
-- 👯 I’m looking to collaborate on open source project and automations.  
+- 👯 I’m looking to collaborate on open source projects.  
   
 
 - 📫 How to reach me badr.ouaddah.07@gmail.com.
@@ -69,7 +69,7 @@ If you're interested in collaborating on a project or just want to chat, feel fr
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/26146907/193597966-b9fab9ac-5f43-4aa2-b43d-0bb3a9d10955.gif" align="center" style="width: 100%" />
 </div>  
 
 
