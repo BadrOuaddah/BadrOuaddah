@@ -32,7 +32,7 @@ If you're interested in collaborating on a project or just want to chat, feel fr
 
 
 ### Contact me :  
-📞 (+212)642-193461
+📞 +212642193461
 
 ✉️ badr.ouaddah.07@gmail.com  
   
