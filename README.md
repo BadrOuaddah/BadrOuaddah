@@ -18,27 +18,6 @@
 </a>  
 
 
-
-### Glad to see you here!  
-Hello there and welcome to my GitHub profile! I'm a junior full-stack developer with a passion for creating engaging and dynamic web applications.
-
-As a recent graduate in computer science, I have gained proficiency in various programming languages such as JavaScript, HTML, CSS, PHP and Java. My skills in both front-end and back-end development allow me to create complete solutions that are both functional and visually appealing.
-
-My GitHub profile showcases some of my personal projects and contributions to open-source projects. Through these experiences, I have developed a strong understanding of Git, agile development methodologies, and the importance of writing clean, maintainable code.
-
-I'm a fast learner and always eager to expand my knowledge and skill set. I enjoy working collaboratively and have great communication skills that help me understand user requirements and translate them into technical solutions.
-
-If you're interested in collaborating on a project or just want to chat, feel free to reach out to me. Let's learn and grow together!  
-  
-
-
-
-### Contact me :  
-📞 +212642193461
-
-✉️ badr.ouaddah.07@gmail.com  
-  
-
 <div align="center">
 <img src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" align="center" height="" width="" />
 </div>  
@@ -79,6 +58,11 @@ If you're interested in collaborating on a project or just want to chat, feel fr
 
 <br/>  
 
+## Contact me :  
+
+📞 +212642193461
+
+✉️ badr.ouaddah.07@gmail.com  
 
 ## Languages and Tools  
 <div align="center">  
