@@ -1,30 +1,28 @@
 ## Hey 👋, I'm Badr Ouaddah  
   
-
+<a href="badr.ouaddah.07@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
+</a>
 <a href="https://github.com/BadrOuaddah" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/badr-ouaddah-85970a257/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+<a href="https://www.hackerrank.com/badr_ouaddah_07?hr_r=1" target="_blank">
+<img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white />
 </a>
 <a href="https://twitter.com/@BadrOuaddah" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/20685890" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/badr-ouaddah-85970a257/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a> 
 <a href="https://www.youtube.com/@BadrOuaddah" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 
-
-<div align="center">
-<img src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" align="center" height="" width="" />
-</div>  
-  
-
 <br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
@@ -63,6 +61,8 @@
 📞 +212642193461
 
 ✉️ badr.ouaddah.07@gmail.com  
+
+<br/> 
 
 ## Languages and Tools  
 <div align="center">  
