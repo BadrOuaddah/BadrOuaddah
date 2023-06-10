@@ -1,5 +1,6 @@
 ## Hey 👋, I'm Badr Ouaddah  
-  
+
+<div align="center">
 <a href="mailto:badr.ouaddah.07@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
 </a>
@@ -24,6 +25,7 @@
 <a href="https://trello.com/u/badrouaddah" target="_blank">
 <img src=https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white alt=trello style="margin-bottom: 5px;" />
 </a> 
+</div> 
 <br/>  
 
 ## Rapidfire  
