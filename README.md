@@ -21,7 +21,9 @@
 <a href="https://www.youtube.com/@BadrOuaddah" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-
+<a href="https://trello.com/u/badrouaddah" target="_blank">
+<img src=https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white alt=trello style="margin-bottom: 5px;" />
+</a> 
 <br/>  
 
 ## Rapidfire  
