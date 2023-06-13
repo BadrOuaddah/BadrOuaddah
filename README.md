@@ -25,6 +25,9 @@
 <a href="https://trello.com/u/badrouaddah" target="_blank">
 <img src=https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white alt=trello style="margin-bottom: 5px;" />
 </a> 
+<a href="https://medium.com/@badr.ouaddah.07" target="_blank">
+<img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a> 
 </div> 
 <br/>  
 
