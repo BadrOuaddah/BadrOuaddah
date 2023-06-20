@@ -32,13 +32,15 @@
 <br/>  
 
 ## Github Stats  
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BadrOuaddah&show_icons=true&locale=en&layout=compact" alt="BadrOuaddah" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BadrOuaddah&show_icons=true&locale=en" alt="BadrOuaddah" /></p>
+<table>
+  <tr><td valign="top" width="50%">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BadrOuaddah&show_icons=true&locale=en&layout=compact" alt="BadrOuaddah" /></p>
+</td><td valign="top" width="50%">
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=BadrOuaddah&show_icons=true&locale=en" alt="BadrOuaddah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BadrOuaddah&" alt="BadrOuaddah" /></p>
-
+</td></tr>
+</table>
 <br/>
 
 ## Rapidfire  
