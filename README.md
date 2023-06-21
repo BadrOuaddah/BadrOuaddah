@@ -31,15 +31,16 @@
 </div> 
 <br/>  
 
-## Github Stats  
+## Github Stats
+
 <table>
-  <tr><td valign="top">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BadrOuaddah&" alt="BadrOuaddah" /></p>
-</td><td valign="top">
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=BadrOuaddah&show_icons=true&locale=en" alt="BadrOuaddah" /></p>
+  <tr><td>
+    <p>&nbsp;<img width= "100%" src="https://github-readme-stats.vercel.app/api?username=BadrOuaddah&show_icons=true&locale=en" alt="BadrOuaddah" /></p>
+</td><td>
+  <p><img width= "100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BadrOuaddah&" alt="BadrOuaddah" /></p>
 </td></tr>
-<tr><td valign="top">  
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BadrOuaddah&layout=pie" alt="BadrOuaddah" /></p>
+<tr><td>  
+<p><img width= "80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=BadrOuaddah&layout=compact" alt="BadrOuaddah" /></p>
 </td></tr>
 </table>
 <br/>
