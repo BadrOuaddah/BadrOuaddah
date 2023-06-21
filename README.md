@@ -32,7 +32,7 @@
 <br/>  
 
 ## Github Stats
-
+<br/>  
 <table>
   <tr><td>
     <p>&nbsp;<img width= "100%" src="https://github-readme-stats.vercel.app/api?username=BadrOuaddah&show_icons=true&locale=en" alt="BadrOuaddah" /></p>
@@ -67,23 +67,11 @@
 
 
 </td><td valign="top" width="50%">
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/26146907/193597966-b9fab9ac-5f43-4aa2-b43d-0bb3a9d10955.gif" align="center" style="width: 100%" />
 </div>  
-
-
 </td></tr></table>  
-
 <br/>  
-
-## Contact me :  
-
-📞 +212642193461
-
-✉️ badr.ouaddah.07@gmail.com  
-
-<br/> 
 
 ## Languages and Tools  
 <div align="center">  
@@ -122,4 +110,10 @@
 </div>  
 
 <br/>  
+
+## Contact me :  
+
+📞 +212642193461
+
+✉️ badr.ouaddah.07@gmail.com  
 
