@@ -34,7 +34,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/BadrOuaddah/Student-Application)  
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/BadrOuaddah/SuperHero-app-with-.NET)  
   
 
 - 🌱 I’m currently learning A lot of stuff ...  
