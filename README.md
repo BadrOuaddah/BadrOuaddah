@@ -62,9 +62,9 @@
 ## Github Stats
 <br/>
 <div align="center">
-<img width= "40%" src="https://github-readme-stats.vercel.app/api?username=BadrOuaddah&show_icons=true&locale=en" alt="BadrOuaddah" />
-<img width= "30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=BadrOuaddah&layout=compact" alt="BadrOuaddah" />
-<img width= "50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BadrOuaddah&" alt="BadrOuaddah" />
+<img width= "60%" src="https://github-readme-stats.vercel.app/api?username=BadrOuaddah&show_icons=true&locale=en" alt="BadrOuaddah" />
+<img width= "60%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BadrOuaddah&" alt="BadrOuaddah" />
+<img width= "40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=BadrOuaddah&layout=compact" alt="BadrOuaddah" />
 </div>
 <br/>
 
