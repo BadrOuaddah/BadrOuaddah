@@ -13,9 +13,6 @@
 <a href="https://www.hackerrank.com/badr_ouaddah_07?hr_r=1" target="_blank">
 <img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white />
 </a>
-<a href="https://twitter.com/@BadrOuaddah" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://stackoverflow.com/users/20685890" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a> 
@@ -30,6 +27,9 @@
 </a>
 <a href="https://gitlab.com/badr.ouaddah.07" target="_blank">
   <img src=https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/@BadrOuaddah" target="_blank">
+<img src=https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </div> 
 <br/>  
