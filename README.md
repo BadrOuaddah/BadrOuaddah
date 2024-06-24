@@ -37,13 +37,13 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Parking Application.
+- 🔭 I’m currently working on open source projects.
   
 
 - 🌱 I’m currently learning A lot of stuff ...  
   
 
-- ❓ Ask me about Angular, React, Spring ...  
+- ❓ Ask me about Spring, React, Angular ...  
   
 
 - ⚡ Fun fact: First solve the problem, then write the code.  
